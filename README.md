@@ -1,2 +1,5 @@
 # myFirst-Repo
-# hello world
+# hello ji
+how are you i am 
+fine 
+umm 
